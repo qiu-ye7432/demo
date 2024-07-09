@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="041815d6-7438-4c0f-98b9-c9854dcd5e70" name="默认的" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2iznoStkBP6rcMeNgMJOu7zZol5" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="新增" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="041815d6-7438-4c0f-98b9-c9854dcd5e70" name="默认的" comment="" />
+      <created>1720502448003</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720502448003</updated>
+      <workItem from="1720502449067" duration="2510000" />
+    </task>
+    <task id="LOCAL-00001" summary="删除readme">
+      <created>1720502840658</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720502840658</updated>
+    </task>
+    <task id="LOCAL-00002" summary="实验，无">
+      <created>1720503086950</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1720503086950</updated>
+    </task>
+    <task id="LOCAL-00003" summary="删除。idea">
+      <created>1720503463627</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1720503463627</updated>
+    </task>
+    <task id="LOCAL-00004" summary="添加html">
+      <created>1720503917512</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1720503917512</updated>
+    </task>
+    <task id="LOCAL-00005" summary="增加h2">
+      <created>1720504272749</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1720504272749</updated>
+    </task>
+    <task id="LOCAL-00006" summary="增加text">
+      <created>1720504602087</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1720504602087</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="删除readme" />
+    <MESSAGE value="实验，无" />
+    <MESSAGE value="删除。idea" />
+    <MESSAGE value="添加html" />
+    <MESSAGE value="增加h2" />
+    <MESSAGE value="增加text" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加text" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="93" y="93" width="1363" height="637" key="DiffContextDialog" timestamp="1720504567359">
+      <screen x="0" y="0" width="1549" height="823" />
+    </state>
+    <state x="93" y="93" width="1363" height="637" key="DiffContextDialog/0.0.1549.823@0.0.1549.823" timestamp="1720504567359" />
+    <state x="555" y="153" key="FileChooserDialogImpl" timestamp="1720504973025">
+      <screen x="0" y="0" width="1549" height="823" />
+    </state>
+    <state x="555" y="153" key="FileChooserDialogImpl/0.0.1549.823@0.0.1549.823" timestamp="1720504973025" />
+    <state x="367" y="145" key="Vcs.Push.Dialog.v2" timestamp="1720504807618">
+      <screen x="0" y="0" width="1549" height="823" />
+    </state>
+    <state x="367" y="145" key="Vcs.Push.Dialog.v2/0.0.1549.823@0.0.1549.823" timestamp="1720504807618" />
+    <state x="510" y="146" key="VcsDiffUtil.ChangesDialog" timestamp="1720503866729">
+      <screen x="0" y="0" width="1549" height="823" />
+    </state>
+    <state x="510" y="146" key="VcsDiffUtil.ChangesDialog/0.0.1549.823@0.0.1549.823" timestamp="1720503866729" />
+    <state x="93" y="93" width="1363" height="637" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1720504567359">
+      <screen x="0" y="0" width="1549" height="823" />
+    </state>
+    <state x="93" y="93" width="1363" height="637" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1549.823@0.0.1549.823" timestamp="1720504567359" />
+    <state x="591" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1720503531137">
+      <screen x="0" y="0" width="1549" height="823" />
+    </state>
+    <state x="591" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1549.823@0.0.1549.823" timestamp="1720503531137" />
+    <state x="575" y="311" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1720502923793">
+      <screen x="0" y="0" width="1549" height="823" />
+    </state>
+    <state x="575" y="311" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1549.823@0.0.1549.823" timestamp="1720502923793" />
+  </component>
+</project>
